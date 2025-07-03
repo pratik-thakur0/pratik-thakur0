@@ -46,5 +46,5 @@ A note management web application.
 
 ---
 
-_For more information, please refer to my [resume](link-to-resume-if-hosted)._
+_For more information, please refer to my [resume](https://github.com/pratik-thakur0/pratik-thakur0/blob/main/resume/Pratik-Thakur-Resume-New-1.5-1P.pdf)._
 
